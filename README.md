@@ -11,11 +11,16 @@
     </ul> 
 </ul>
 
-<h1>2. Adding Local Changes: Git Cheat Sheet</h1>
-Changed files in the working directory
-Syntax: $ git status
-Changes to track files
-Syntax: $ git diff
+<h1>Adding Local Changes</h1>
+<ul>
+    <li>Changed files in the working directory</li>
+<ul>
+    <li>$ git status</li>
+</ul>
+<li>Changes to track files</li>
+<ul>
+    <li> $ git diff</li>
+</ul>
 Adding all the current changes to the next commit
 Syntax: $ git add.
 Adding some changes to the next commit
